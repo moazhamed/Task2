@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="register">REGISTER</string>
+    <string name="full_name">Full  name</string>
+    <string name="password">Password</string>
+    <string name="number">12345</string>
+    <string name="email">Email</string>
+    <string name="terms_text">By clicking register you agree to</string>
+    <string name="terms_and_conditions">Terms and Conditions</string>
+    <string name="change_language">Change Language</string>
+</resources>

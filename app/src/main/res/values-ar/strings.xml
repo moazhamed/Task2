@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Task2</string>
+    <string name="register">تسجيل دخول</string>
+    <string name="full_name">الاسم كامل</string>
+    <string name="number">١٢٣٤٥</string>
+    <string name="email">الايميل</string>
+    <string name="terms_text">بالضغط علي تسجيل انت توافق علي</string>
+    <string name="terms_and_conditions">الاحكام والشروط</string>
+    <string name="change_language">تغيير اللغة</string>
+    <string name="password">كلمة االمرور</string>
+</resources>
