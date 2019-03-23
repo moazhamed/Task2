@@ -15,6 +15,6 @@ public interface Services {
     Call<List<CountriesResponse>> getCountries();
 
     @GET("GetCities")
-    Call<List<CitiesResponse>> getCities(@Query("countryId") int countryId  );
+    Call<List<CitiesResponse>> getCities(@Query("countryId") int countryId);
 
 }
